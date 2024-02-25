@@ -39,7 +39,7 @@ To run this project locally, follow these steps:
 
 4. Set up environment variables:
 
-   Obtain an API key from [OpenWeatherMap](https://openweathermap.org/) and add it to your environment variables file (`.env`) as `VITE_API_KEY`.
+   Obtain an API key from [OpenWeatherMap](https://openweathermap.org/) and add it to your environment variables file (`.env.local`) as `VITE_API_KEY`.
 
 5. Start the development server:
 
